@@ -1,8 +1,12 @@
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="right" style="margin: 0 0 35px 35px;">
 
-<p><strong>May 29 – June 2, 2028.</strong></p>
+<p style="font-size: 1.4em; font-weight: bold;">
+  May 29 – June 2, 2028.
+</p>
 
-<p><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
+<p style="font-size: 1.4em; font-weight: bold;">
+  In honour of the 60th birthday of Ilias Kotsireas.
+</p>
 
 <p align="justify">
 The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
