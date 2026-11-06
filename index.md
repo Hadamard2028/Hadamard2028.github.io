@@ -1,16 +1,20 @@
-<img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
+<img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 35px 35px 0;">
 
-<p style="font-size: 1.25em;"><strong>Hadamard 2028.</strong></p>
+<p style="font-size: 3.2em; line-height: 1.05; font-weight: bold; margin-top: 0; margin-bottom: 30px;">Hadamard 2028</p>
 
-<p style="font-size: 1.25em;"><strong>May 29 – June 2, 2028.</strong></p>
+<p style="font-size: 1.35em; line-height: 1.35; margin-bottom: 25px;"><strong>May 29 – June 2, 2028.</strong></p>
 
-<p style="font-size: 1.25em;"><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
+<p style="font-size: 1.35em; line-height: 1.45; margin-bottom: 25px;"><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
 
-Hadamard 2028 is the ninth in a series of conferences, the previous eight being held at Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The 1993 conference, called the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
+<p style="text-align: justify; line-height: 1.55;">
+Hadamard 2028 is the ninth in a series of conferences. The previous eight were held in Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The inaugural conference, held in 1993 and known as the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
+</p>
 
-<br clear="left">
+<div style="clear: both; height: 35px;"></div>
 
-The purpose of the workshop is to bring together researchers and students interested in design theory, especially as it relates to Hadamard matrices and their applications, as well as in related areas such as coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. The audience will learn about the latest developments in these areas, discuss recent findings, take stock of what remains to be done on classical problems, and explore different visions for future work.
+<p style="text-align: justify; line-height: 1.55;">
+The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
+</p>
 
 <div align="center">
   <img src="AAC09.png" style="object-fit:cover;width:1000px;"> 
