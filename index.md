@@ -57,24 +57,6 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 
 <div style="clear: both;"></div>
 
-
-## Jump to
-
-<p>
-<a href="#schedule">Information</a>
-&nbsp; | &nbsp;
-<a href="#inv-sp">Invited Speakers</a>
-&nbsp; | &nbsp;
-<a href="#rego">Registration</a>
-&nbsp; | &nbsp;
-<a href="#dead">Deadlines</a>
-&nbsp; | &nbsp;
-<a href="#talks">Talks</a>
-&nbsp; | &nbsp;
-<a href="#them">Registered Participants</a>
-</p>
-
-
 <h2 id="schedule">Information</h2>
 
 <img src="SNFCC.jpg" alt="Stavros Niarchos Foundation Cultural Center" width="500" align="left" style="margin: 0 35px 35px 0;">
@@ -105,6 +87,8 @@ To be announced.
 <h2 id="rego">Registration</h2>
 
 Not open yet. 
+
+<h2 id="dead">Deadlines</h2>
 
 <h2 id="talks">Talk Schedule</h2>
 
