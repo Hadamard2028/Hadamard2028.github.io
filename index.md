@@ -10,23 +10,23 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
 </p>
 
-<h2 id="us">Organisers</h2>
-
-- [Santiago Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
-- [Ilias Kotsireas](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html), Wilfrid Laurier University
-
-
 
 
 ## Jump to
-<a href="#schedule">Information</a><br />
+<a href="#us">Organisers</a><br /> <a href="#schedule">Information</a><br />
 <a href="#inv-sp">Invited Speakers</a><br />
 <a href="#rego">Registration</a><br />
 <a href="#travel">Travel Support for Students</a><br />
 <a href="#dead">Deadlines</a><br />
 <a href="#talks">Talks</a><br />
 <a href="#them">Registered Participants</a><br />
-<a href="#us">Organisers</a><br />
+
+
+<h2 id="us">Organisers</h2>
+
+- [Santiago Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
+- [Ilias Kotsireas](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html), Wilfrid Laurier University
+
 
 <h2 id="schedule">Information</h2>
 
