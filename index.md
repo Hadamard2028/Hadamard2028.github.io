@@ -1,32 +1,32 @@
-<div style="display: flex; align-items: center; gap: 30px; margin: 30px 0;">
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="Parthenon5.jpg"
+           alt="The Parthenon"
+           style="width: 250px; height: auto;">
+    </td>
 
-  <div style="flex: 0 0 300px;">
-    <img src="Parthenon5.jpg"
-         alt="The Parthenon"
-         style="width: 100%; height: auto;">
-  </div>
+    <td style="vertical-align: top; padding-left: 25px;">
 
-  <div style="flex: 1;">
+      <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
 
-    <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
+      <p>
+        In honour of the 60th birthday of Ilias Kotsireas.
+      </p>
 
-    <p>
-      In honour of the 60th birthday of Ilias Kotsireas.
-    </p>
+      <p>
+        Hadamard 2028 is the ninth in a series of conferences, the previous
+        eight being held at Wollongong, Australia (1993); Seville, Spain
+        (2007); Galway, Ireland (2009); Melbourne, Australia (2011);
+        Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland
+        (2022); and Seville, Spain (2025). The 1993 conference, called the
+        “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
+        organised by Jennifer Seberry and colleagues.
+      </p>
 
-    <p>
-      Hadamard 2028 is the ninth in a series of conferences, the previous
-      eight being held at Wollongong, Australia (1993); Seville, Spain
-      (2007); Galway, Ireland (2009); Melbourne, Australia (2011);
-      Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland
-      (2022); and Seville, Spain (2025). The 1993 conference, called the
-      “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
-      organised by Jennifer Seberry and colleagues.
-    </p>
-
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <p>
   The purpose of the workshop is to bring together researchers and students
@@ -38,7 +38,6 @@
   recent findings, take stock of what remains to be done on classical
   problems, and explore different visions for future work.
 </p>
-
 
 
 <div align="center">
