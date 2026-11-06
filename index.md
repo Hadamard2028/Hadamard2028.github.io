@@ -121,8 +121,6 @@
   <div class="hadamard-hero-content">
     <p class="hadamard-kicker">9th Hadamard Matrix Workshop</p>
 
-    <h1 class="hadamard-title">Hadamard<br>2028</h1>
-
     <div class="hadamard-rule"></div>
 
     <p class="hadamard-date">May 29 – June 2, 2028</p>
