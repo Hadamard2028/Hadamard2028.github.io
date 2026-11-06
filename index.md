@@ -1,18 +1,21 @@
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 35px 35px 0;">
 
-<p style="font-size: 3.2em; line-height: 1.05; font-weight: bold; margin-top: 0; margin-bottom: 30px;">Hadamard 2028</p>
+<font size="6"><strong>Hadamard 2028</strong></font>
+<br><br>
 
-<p style="font-size: 1.35em; line-height: 1.35; margin-bottom: 25px;"><strong>May 29 – June 2, 2028.</strong></p>
+<font size="4"><strong>May 29 – June 2, 2028.</strong></font>
+<br><br>
 
-<p style="font-size: 1.35em; line-height: 1.45; margin-bottom: 25px;"><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
+<font size="4"><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></font>
+<br><br>
 
-<p style="text-align: justify; line-height: 1.55;">
+<p align="justify">
 Hadamard 2028 is the ninth in a series of conferences. The previous eight were held in Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The inaugural conference, held in 1993 and known as the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
 </p>
 
-<div style="clear: both; height: 35px;"></div>
+<br clear="left"><br><br>
 
-<p style="text-align: justify; line-height: 1.55;">
+<p align="justify">
 The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
 </p>
 
