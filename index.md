@@ -15,9 +15,6 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
 </p>
 
-<div align="center">
-  <img src="AAC09.png" style="object-fit:cover;width:1000px;"> 
-  </div>
 
 ## Jump to
 <a href="#schedule">Information</a><br />
@@ -31,7 +28,7 @@ The workshop will bring together researchers and students interested in design t
 
 <h2 id="schedule">Information</h2>
 
-The conference will be held at La Trobe University City Campus, Level 3 (Rooms 3.08 and 3.09), 360 Collins Street, Melbourne VIC 3000.
+The conference will be held at Stavros Niarchos Foundation Cultural Center (SNFCC), Syggrou Avenue 364, 17674 Kallithea, Athens - Greece.
 
 This centrally located venue offers convenient access via bus, tram, and train, as it is situated in the heart of Melbourne’s Central Business District (CBD). A wide range of accommodation options, including hotels and hostels, are available nearby, along with numerous dining venues catering to various preferences and budgets.
 
