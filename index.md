@@ -1,6 +1,6 @@
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 35px 35px 0;">
 
-<font size="10"><strong>Hadamard 2028</strong></font>
+<font size="15"><strong>Hadamard 2028</strong></font>
 
 
 <font size="4"><strong>May 29 – June 2, 2028.</strong></font>
