@@ -1,32 +1,32 @@
-<table>
-  <tr>
-    <td style="width: 30%; vertical-align: top;">
-      <img src="Parthenon5.jpg"
-           alt="The Parthenon"
-           style="width: 250px; height: auto;">
-    </td>
+<div style="width: 100%; overflow: hidden;">
 
-    <td style="vertical-align: top; padding-left: 25px;">
+  <div style="display: inline-block !important; vertical-align: top; width: 28%; padding-top: 10px;">
+    <img src="Parthenon5.jpg"
+         alt="The Parthenon"
+         style="width: 220px; max-width: 100%; height: auto;">
+  </div>
 
-      <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
+  <div style="display: inline-block !important; vertical-align: top; width: 68%; padding-left: 25px; box-sizing: border-box;">
 
-      <p>
-        In honour of the 60th birthday of Ilias Kotsireas.
-      </p>
+    <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
 
-      <p>
-        Hadamard 2028 is the ninth in a series of conferences, the previous
-        eight being held at Wollongong, Australia (1993); Seville, Spain
-        (2007); Galway, Ireland (2009); Melbourne, Australia (2011);
-        Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland
-        (2022); and Seville, Spain (2025). The 1993 conference, called the
-        “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
-        organised by Jennifer Seberry and colleagues.
-      </p>
+    <p>
+      In honour of the 60th birthday of Ilias Kotsireas.
+    </p>
 
-    </td>
-  </tr>
-</table>
+    <p>
+      Hadamard 2028 is the ninth in a series of conferences, the previous
+      eight being held at Wollongong, Australia (1993); Seville, Spain
+      (2007); Galway, Ireland (2009); Melbourne, Australia (2011);
+      Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland
+      (2022); and Seville, Spain (2025). The 1993 conference, called the
+      “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
+      organised by Jennifer Seberry and colleagues.
+    </p>
+
+  </div>
+
+</div>
 
 <p>
   The purpose of the workshop is to bring together researchers and students
