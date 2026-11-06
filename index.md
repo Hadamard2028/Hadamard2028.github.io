@@ -61,7 +61,7 @@ Map: <a href="https://www.google.com/maps/place/Stavros+Niarchos+Foundation+Cult
 <br clear="left"><br><br>
 
 
-##Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
+## Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
