@@ -14,6 +14,35 @@ The workshop will bring together researchers and students interested in design t
 The workshop is the ninth in a series of conferences. The previous eight were held in Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The inaugural conference, held in 1993 and known as the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
 </p>
 
+<div style="float: left; width: 48%; margin-right: 4%;">
+
+<h2 id="sc">Scientific Committee</h2>
+
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=0VZliCMAAAAJ&hl=en">Víctor Álvarez</a>, Universidad de Sevilla, Spain.</li>
+  <li><a href="https://scholar.google.com.sg/citations?hl=en&user=HFeR-04AAAAJ">Dane Flannery</a>, University of Galway, Ireland.</li>
+  <li><a href="https://scholar.google.com.sg/citations?hl=en&user=9eihAVsAAAAJ">Kathy Horadam</a>, RMIT University, Australia.</li>
+  <li><a href="https://scholar.google.com.sg/citations?hl=en&user=g3t1K1MAAAAJ">Hadi Kharaghani</a>, University of Lethbridge, Canada.</li>
+  <li><a href="https://scholar.google.com.sg/citations?hl=en&user=A40a5_gAAAAJ">Máté Matolcsi</a>, Rényi Institute of Mathematics, Hungary.</li>
+  <li><a href="https://documents.uow.edu.au/~jennie/">Jennifer Seberry</a>, University of Wollongong, Australia.</li>
+  <li><a href="https://scholar.google.com.sg/citations?hl=en&user=Cfk8KuMAAAAJ">Karol Życzkowski</a>, Jagiellonian University / Center for Theoretical Physics, Poland.</li>
+</ul>
+
+</div>
+
+<div style="float: right; width: 48%;">
+
+<h2 id="oc">Organising Committee</h2>
+
+<ul>
+  <li><a href="https://scholars.latrobe.edu.au/s2barreraace">Santiago Barrera Acevedo</a>, La Trobe University.</li>
+  <li><a href="https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html">Ilias Kotsireas</a>, Wilfrid Laurier University.</li>
+</ul>
+
+</div>
+
+<div style="clear: both;"></div>
+
 <h2 id="sc">Scientific Committee</h2>
 
 - [Víctor Álvarez](https://scholar.google.com/citations?user=0VZliCMAAAAJ&hl=en), Universidad de Sevilla, Spain.
