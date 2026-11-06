@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Parthenon5" style="object-fit:cover;width:800px;"> 
+  <img src="Parthenon5.jpg" style="object-fit:cover;width:800px;"> 
   </div>
 
 
