@@ -18,8 +18,6 @@ The workshop will bring together researchers and students interested in design t
 ## Jump to
 
 <p>
-<a href="#us">Organisers</a>
-&nbsp; | &nbsp;
 <a href="#schedule">Information</a>
 &nbsp; | &nbsp;
 <a href="#inv-sp">Invited Speakers</a>
