@@ -16,13 +16,13 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 
 <h2 id="sc">Scientific Committee</h2>
 
-- [Víctor Álvarez]([https://scholar.google.com/citations?user=0VZliCMAAAAJ&hl=en]), Universidad de Sevilla, Spain.
-- [Dane Flannery]([https://scholar.google.com.sg/citations?hl=en&user=HFeR-04AAAAJ]), University of Galway, Ireland.
-- [Kathy Horadam]([https://scholar.google.com.sg/citations?hl=en&user=9eihAVsAAAAJ]), RMIT University, Australia.
-- [Hadi Kharaghani]([https://scholar.google.com.sg/citations?hl=en&user=g3t1K1MAAAAJ]), Lethbridge University, Canada
-- [Máté Matolcsi]([https://scholar.google.com.sg/citations?hl=en&user=A40a5_gAAAAJ]), Renyi Institute of Mathematics, Hungary
-- [Jennifer Seberry]([https://documents.uow.edu.au/~jennie/]), University of Wollongong, Australia
-- [Karol Zyczkowski]([https://scholar.google.com.sg/citations?hl=en&user=Cfk8KuMAAAAJ]), Jagiellonian University / Center for Theoretical Physics, Poland
+- [Víctor Álvarez](https://scholar.google.com/citations?user=0VZliCMAAAAJ&hl=en), Universidad de Sevilla, Spain.
+- [Dane Flannery](https://scholar.google.com.sg/citations?hl=en&user=HFeR-04AAAAJ), University of Galway, Ireland.
+- [Kathy Horadam](https://scholar.google.com.sg/citations?hl=en&user=9eihAVsAAAAJ), RMIT University, Australia.
+- [Hadi Kharaghani](https://scholar.google.com.sg/citations?hl=en&user=g3t1K1MAAAAJ), Lethbridge University, Canada.
+- [Máté Matolcsi](https://scholar.google.com.sg/citations?hl=en&user=A40a5_gAAAAJ), Renyi Institute of Mathematics, Hungary.
+- [Jennifer Seberry](https://documents.uow.edu.au/~jennie/), University of Wollongong, Australia.
+- [Karol Zyczkowski](https://scholar.google.com.sg/citations?hl=en&user=Cfk8KuMAAAAJ), Jagiellonian University / Center for Theoretical Physics, Poland.
 
 <h2 id="oc">Organising Committee</h2>
 
