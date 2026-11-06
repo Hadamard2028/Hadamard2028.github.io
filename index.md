@@ -76,10 +76,6 @@ T.: <strong>(+30) 216 8091000</strong><br>
 Map: <a href="https://www.google.com/maps/place/Stavros+Niarchos+Foundation+Cultural+Center/@37.9399759,23.6897,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc40b88926c5:0x12d734e25cdf4a9b!8m2!3d37.9399759!4d23.6918887">Google Maps</a>
 </p>
 
-<br clear="left"><br><br>
-
-<br clear="left"><br><br>
-
 <h2 id="inv-sp">Invited Speakers</h2>
 
 To be announced. 
