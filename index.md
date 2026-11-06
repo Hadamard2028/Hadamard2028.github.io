@@ -1,33 +1,3 @@
-<div class="intro-section">
-    <img src="images/workshop-logo.png"
-         alt="Hadamard Matrix Workshop logo"
-         class="workshop-image">
-
-    <div class="intro-text">
-        <h2>9th Hadamard Matrix Workshop</h2>
-        <p>
-            The 9th Hadamard Matrix Workshop will bring together researchers
-            working on Hadamard matrices and related topics.
-        </p>
-    </div>
-</div>
-
-.intro-section {
-    display: flex;
-    align-items: center;
-    gap: 30px;
-    margin: 30px 0;
-}
-
-.workshop-image {
-    width: 180px;
-    height: auto;
-}
-
-.intro-text {
-    flex: 1;
-}
-
 <div style="display: flex; align-items: center; gap: 30px; margin: 30px 0;">
 
   <div style="flex: 0 0 300px;">
