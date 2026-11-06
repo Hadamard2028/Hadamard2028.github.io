@@ -38,33 +38,18 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 
 The conference will be held at Stavros Niarchos Foundation Cultural Center (SNFCC), Syggrou Avenue 364, 17674 Kallithea, Athens - Greece.
 
-...
 
-Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
+##Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
+To be announced. 
  
-
-
 <h2 id="rego">Registration</h2>
 
-Registration fees should be paid via bank transfer. 
-
-**BSB:** 
-
-**Account:** 
-
-**Account name:** 
-
-Please include your first and last name in the payment description, and email your payment confirmation (e.g. pdf or sceenshot) to [Ilias Kotsireas](mailto:ikotsire@gmail.com?subject=Registration%20payment%20for%20AAC).
-
+Not open yet. 
 
 <h2 id="talks">Talk Schedule</h2>
-
-<div align="center">
-  <img src="Schedule.png" style="object-fit:cover;width:800px;"> 
-  </div>
 
 Contributed talks are 20 minutes long, with an additional 5 minutes for questions and change of speaker.
 
@@ -93,6 +78,8 @@ Contributed talks are 20 minutes long, with an additional 5 minutes for question
 
 
 <h2 id="diner">Conference Dinner</h2>
+
+To be announced.
 
 
 
