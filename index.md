@@ -1,10 +1,10 @@
-<img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
+<img src="Parthenon5.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
 
-Hadamard 2028
+<h1>Hadamard 2028</h1>
 
-Monday May 29 – Friday June 2, 2028.
+<p style="font-size: 1.25em;"><strong>May 29 – June 2, 2028.</strong></p>
 
-In honour of the 60th birthday of Ilias Kotsireas.
+<p style="font-size: 1.25em;"><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
 
 Hadamard 2028 is the ninth in a series of conferences, the previous eight being held at Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The 1993 conference, called the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
 
