@@ -55,9 +55,9 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 The conference will be held at the Stavros Niarchos Foundation Cultural Center (SNFCC), 364 Syggrou Avenue, 176 74 Kallithea, Athens, Greece. 
 </p>
 
-</p>
+<p>
 Further information about the venue is available on the <a href="https://www.snfcc.org/en/">SNFCC website</a>.
-</p>
+<p>
 
 <p>
 <strong>Contact</strong><br>
@@ -69,9 +69,6 @@ Map: <a href="https://www.google.com/maps/place/Stavros+Niarchos+Foundation+Cult
 <br clear="left"><br><br>
 
 <br clear="left"><br><br>
-
-
-## Please click <a href="AAC09-BOA.pdf">here</a> to download the conference information booklet, which includes the abstracts and the schedule.
 
 <h2 id="inv-sp">Invited Speakers</h2>
 
