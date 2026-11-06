@@ -12,7 +12,7 @@ The workshop will bring together researchers and students interested in design t
 
 <h2 id="us">Organisers</h2>
 
-- [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
+- [Santiago Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
 - [Ilias Kotsireas](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html), Wilfrid Laurier University
 
 
