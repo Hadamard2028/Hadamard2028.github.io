@@ -12,9 +12,12 @@ The workshop will bring together researchers and students interested in design t
 
 <br clear="right"><br><br>
 
-<p align="justify">
+<h2 id="us">Organisers</h2>
 
-</p>
+- [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
+- [Ilias Kotsireas](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html), Wilfrid Laurier University
+
+
 
 
 ## Jump to
@@ -384,11 +387,6 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
 </table>
 </div>
 
-<h2 id="us">Organisers</h2>
-
-- [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
-- [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), La Trobe Unversity
-- [Olga Minchin](https://au.linkedin.com/in/olga-minchin-645743ba), La Trobe Unversity
 
 <h2 id="diner">Conference Dinner</h2>
 
