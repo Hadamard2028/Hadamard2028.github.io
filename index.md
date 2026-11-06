@@ -10,8 +10,6 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
 </p>
 
-<br clear="right"><br><br>
-
 <h2 id="us">Organisers</h2>
 
 - [Santi Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
