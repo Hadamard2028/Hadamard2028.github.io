@@ -1,157 +1,19 @@
-<style>
-  .hadamard-hero {
-    display: flex;
-    align-items: stretch;
-    max-width: 1100px;
-    margin: 35px auto 45px auto;
-    min-height: 520px;
-    overflow: hidden;
-    border-radius: 22px;
-    background: #0b1736;
-    box-shadow: 0 18px 45px rgba(11, 23, 54, 0.22);
-  }
+<img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="right" style="margin: 0 0 35px 35px;">
 
-  .hadamard-hero-image {
-    width: 52%;
-    min-height: 520px;
-    object-fit: cover;
-    display: block;
-  }
+<p><strong>May 29 – June 2, 2028.</strong></p>
 
-  .hadamard-hero-content {
-    width: 48%;
-    box-sizing: border-box;
-    padding: 65px 55px;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background:
-      radial-gradient(circle at 90% 10%, rgba(213, 167, 72, 0.22), transparent 34%),
-      linear-gradient(145deg, #0b1736 0%, #102d5a 100%);
-  }
+<p><strong>In honour of the 60th birthday of Ilias Kotsireas.</strong></p>
+<br>
 
-  .hadamard-kicker {
-    margin: 0 0 18px 0;
-    color: #e2b65d;
-    font-size: 0.85em;
-    font-weight: bold;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-  }
+<p align="justify">
+The workshop is the ninth in a series of conferences. The previous eight were held in Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The inaugural conference, held in 1993 and known as the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
+</p>
 
-  .hadamard-title {
-    margin: 0;
-    color: white;
-    font-size: 3.6em;
-    line-height: 0.98;
-    letter-spacing: -0.04em;
-    font-weight: 800;
-  }
+<br clear="right"><br><br>
 
-  .hadamard-rule {
-    width: 72px;
-    height: 4px;
-    margin: 28px 0 28px 0;
-    border: 0;
-    background: #e2b65d;
-  }
-
-  .hadamard-date {
-    margin: 0 0 20px 0;
-    color: white;
-    font-size: 1.35em;
-    line-height: 1.35;
-    font-weight: bold;
-  }
-
-  .hadamard-honour {
-    margin: 0;
-    color: #d8e2f2;
-    font-size: 1.05em;
-    line-height: 1.5;
-  }
-
-  .hadamard-intro {
-    max-width: 1000px;
-    margin: 0 auto 45px auto;
-    padding: 0 10px;
-    color: #26344d;
-    font-size: 1.08em;
-    line-height: 1.7;
-  }
-
-  .hadamard-intro p {
-    margin-bottom: 1.2em;
-  }
-
-  @media (max-width: 760px) {
-    .hadamard-hero {
-      display: block;
-      margin: 20px 0 35px 0;
-      border-radius: 16px;
-    }
-
-    .hadamard-hero-image,
-    .hadamard-hero-content {
-      width: 100%;
-    }
-
-    .hadamard-hero-image {
-      min-height: 300px;
-      max-height: 420px;
-    }
-
-    .hadamard-hero-content {
-      min-height: 390px;
-      padding: 45px 30px;
-    }
-
-    .hadamard-title {
-      font-size: 3em;
-    }
-  }
-</style>
-
-<section class="hadamard-hero">
-  <img class="hadamard-hero-image"
-       src="Parthenon2.jpg"
-       alt="The Parthenon in Athens">
-
-  <div class="hadamard-hero-content">
-    <p class="hadamard-kicker">9th Hadamard Matrix Workshop</p>
-
-    <div class="hadamard-rule"></div>
-
-    <p class="hadamard-date">May 29 – June 2, 2028</p>
-
-    <p class="hadamard-honour">
-      In honour of the 60th birthday of Ilias Kotsireas.
-    </p>
-  </div>
-</section>
-
-<section class="hadamard-intro">
-  <p>
-    Hadamard 2028 is the ninth in a series of conferences, the previous eight
-    being held at Wollongong, Australia (1993); Seville, Spain (2007); Galway,
-    Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014);
-    Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025).
-    The 1993 conference, called the “Hadamard Centenary” in recognition of
-    Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
-  </p>
-
-  <p>
-    The purpose of the workshop is to bring together researchers and students
-    interested in design theory, especially as it relates to Hadamard matrices
-    and their applications, as well as in related areas such as coding theory,
-    association schemes, sequences, finite geometry, difference sets, quantum
-    information theory, theoretical physics, and computer security. The
-    audience will learn about the latest developments in these areas, discuss
-    recent findings, take stock of what remains to be done on classical
-    problems, and explore different visions for future work.
-  </p>
-</section>
+<p align="justify">
+The workshop will bring together researchers and students interested in design theory, particularly its connections with Hadamard matrices and their applications. It will also welcome contributions from related areas, including coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics, and computer security. Participants will have the opportunity to learn about recent developments, discuss new findings, assess the progress that has been made on classical problems, and explore possible directions for future research.
+</p>
 
 <div align="center">
   <img src="AAC09.png" style="object-fit:cover;width:1000px;"> 
