@@ -1,4 +1,4 @@
-<img src="Parthenon5.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
+<img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
 
 <h1>Hadamard 2028</h1>
 
