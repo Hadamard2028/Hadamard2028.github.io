@@ -1,13 +1,10 @@
-<div style="width: 100%; overflow: hidden;">
+<div style="display: flex; align-items: flex-start; gap: 25px;">
 
-  <div style="display: inline-block !important; vertical-align: top; width: 28%; padding-top: 10px;">
-    <img src="Parthenon5.jpg"
-         alt="The Parthenon"
-         style="width: 220px; max-width: 100%; height: auto;">
-  </div>
+  <img src="Parthenon5.jpg"
+       alt="The Parthenon"
+       style="width: 250px; height: auto;">
 
-  <div style="display: inline-block !important; vertical-align: top; width: 68%; padding-left: 25px; box-sizing: border-box;">
-
+  <div>
     <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
 
     <p>
@@ -23,7 +20,6 @@
       “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
       organised by Jennifer Seberry and colleagues.
     </p>
-
   </div>
 
 </div>
@@ -38,7 +34,6 @@
   recent findings, take stock of what remains to be done on classical
   problems, and explore different visions for future work.
 </p>
-
 
 <div align="center">
   <img src="AAC09.png" style="object-fit:cover;width:1000px;"> 
