@@ -1,6 +1,8 @@
-<img src="Parthenon5.jpg" alt="The Parthenon" width="250" align="left" style="margin: 0 25px 15px 0;">
+<img src="Parthenon5.jpg" alt="The Parthenon" width="500" align="left" style="margin: 0 30px 20px 0;">
 
-**Dates:** Monday May 29 – Friday June 2, 2028.
+Hadamard 2028
+
+Monday May 29 – Friday June 2, 2028.
 
 In honour of the 60th birthday of Ilias Kotsireas.
 
