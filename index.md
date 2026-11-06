@@ -1,3 +1,17 @@
+<p>
+<a href="#schedule">Information</a>
+&nbsp; | &nbsp;
+<a href="#inv-sp">Invited Speakers</a>
+&nbsp; | &nbsp;
+<a href="#rego">Registration</a>
+&nbsp; | &nbsp;
+<a href="#dead">Deadlines</a>
+&nbsp; | &nbsp;
+<a href="#talks">Talks</a>
+&nbsp; | &nbsp;
+<a href="#them">Registered Participants</a>
+</p>
+
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="right" style="margin: 0 0 35px 35px;">
 
 <p style="font-size: 1.4em; font-weight: bold;">
