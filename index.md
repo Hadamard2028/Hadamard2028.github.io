@@ -14,7 +14,17 @@ The workshop will bring together researchers and students interested in design t
 The workshop is the ninth in a series of conferences. The previous eight were held in Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011); Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); and Seville, Spain (2025). The inaugural conference, held in 1993 and known as the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organised by Jennifer Seberry and colleagues.
 </p>
 
-<h2 id="us">Organising Committee</h2>
+<h2 id="sc">Scientific Committee</h2>
+
+- [Víctor Álvarez]([https://scholar.google.com/citations?user=0VZliCMAAAAJ&hl=en]), Universidad de Sevilla, Spain.
+- [Dane Flannery]([https://scholar.google.com.sg/citations?hl=en&user=HFeR-04AAAAJ]), University of Galway, Ireland.
+- [Kathy Horadam]([https://scholar.google.com.sg/citations?hl=en&user=9eihAVsAAAAJ]), RMIT University, Australia.
+- [Hadi Kharaghani]([https://scholar.google.com.sg/citations?hl=en&user=g3t1K1MAAAAJ]), Lethbridge University, Canada
+- [Máté Matolcsi]([https://scholar.google.com.sg/citations?hl=en&user=A40a5_gAAAAJ]), Renyi Institute of Mathematics, Hungary
+- [Jennifer Seberry]([https://documents.uow.edu.au/~jennie/]), University of Wollongong, Australia
+- [Karol Zyczkowski]([https://scholar.google.com.sg/citations?hl=en&user=Cfk8KuMAAAAJ]), Jagiellonian University / Center for Theoretical Physics, Poland
+
+<h2 id="oc">Organising Committee</h2>
 
 - [Santiago Barrera Acevedo](https://scholars.latrobe.edu.au/s2barreraace), La Trobe Unversity
 - [Ilias Kotsireas](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/ilias-s-kotsireas/index.html), Wilfrid Laurier University
