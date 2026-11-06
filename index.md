@@ -1,7 +1,7 @@
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="right" style="margin: 0 0 35px 35px;">
 
 <p style="font-size: 1.4em; font-weight: bold;">
-  May 29 – June 2, 2028 - Athens, Greece. 
+  May 29 – June 2, 2028 – Athens, Greece. 
 </p>
 
 <p style="font-size: 1.4em; font-weight: bold;">
@@ -42,10 +42,17 @@ The workshop is the ninth in a series of conferences. The previous eight were he
 <img src="SNFCC.jpg" alt="Stavros Niarchos Foundation Cultural Center" width="500" align="left" style="margin: 0 35px 35px 0;">
 
 <p align="justify">
-The conference will be held at the Stavros Niarchos Foundation Cultural Center (SNFCC), 364 Syggrou Avenue, 176 74 Kallithea, Athens, Greece. 
-  
-Further information about the venue is available on the <a href="https://www.snfcc.org/en/">SNFCC website</a>.
+The conference will be held at the Stavros Niarchos Foundation Cultural Center (SNFCC), 364 Syggrou Avenue, 176 74 Kallithea, Athens, Greece. Further information about the venue is available on the <a href="https://www.snfcc.org/en/">SNFCC website</a>.
 </p>
+
+<p>
+<strong>Contact</strong><br>
+E.: <a href="mailto:info@snfcc.org"><strong>info@snfcc.org</strong></a><br>
+T.: <strong>(+30) 216 8091000</strong><br>
+Map: <a href="https://www.google.com/maps/place/Stavros+Niarchos+Foundation+Cultural+Center/@37.9399759,23.6897,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc40b88926c5:0x12d734e25cdf4a9b!8m2!3d37.9399759!4d23.6918887">Google Maps</a>
+</p>
+
+<br clear="left"><br><br>
 
 <br clear="left"><br><br>
 
