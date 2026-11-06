@@ -1,19 +1,43 @@
+<div style="display: flex; align-items: center; gap: 30px; margin: 30px 0;">
 
-<div align="center">
-  <img src="Parthenon5.jpg" style="object-fit:cover;width:800px;"> 
+  <div style="flex: 0 0 300px;">
+    <img src="Parthenon5.jpg"
+         alt="The Parthenon"
+         style="width: 100%; height: auto;">
   </div>
 
+  <div style="flex: 1;">
 
+    <p><strong>Dates:</strong> Monday May 29 – Friday June 2, 2028.</p>
 
-- **Dates**: Monday May 29 - Friday June 2, 2028. 
-- **Venue**: Stavros Niarchos Foundation Cultural Center (SNFCC), Syggrou Avenue 364, 17674 Kallithea.
+    <p>
+      In honour of the 60th birthday of Ilias Kotsireas.
+    </p>
 
-In honor of the 60-th birthday of Ilias Kotsireas.
+    <p>
+      Hadamard 2028 is the ninth in a series of conferences, the previous
+      eight being held at Wollongong, Australia (1993); Seville, Spain
+      (2007); Galway, Ireland (2009); Melbourne, Australia (2011);
+      Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland
+      (2022); and Seville, Spain (2025). The 1993 conference, called the
+      “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was
+      organised by Jennifer Seberry and colleagues.
+    </p>
 
+  </div>
 
-Hadamard 2028 is the ninth in a series of conferences, the previous seven being held at Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011);  Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); Seville, Spain (2025). The 1993 conference, called the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organized by Jennifer Seberry and colleagues.
+</div>
 
-The main aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra quite broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
+<p>
+  The purpose of the workshop is to bring together researchers and students
+  interested in design theory, especially as it relates to Hadamard matrices
+  and their applications, as well as in related areas such as coding theory,
+  association schemes, sequences, finite geometry, difference sets, quantum
+  information theory, theoretical physics, and computer security. The
+  audience will learn about the latest developments in these areas, discuss
+  recent findings, take stock of what remains to be done on classical
+  problems, and explore different visions for future work.
+</p>
 
 
 
