@@ -1,7 +1,7 @@
 <img src="Parthenon2.jpg" alt="The Parthenon" width="500" align="right" style="margin: 0 0 35px 35px;">
 
 <p style="font-size: 1.4em; font-weight: bold;">
-  May 29 – June 2, 2028.
+  May 29 – June 2, 2028 - Athens, Greece. 
 </p>
 
 <p style="font-size: 1.4em; font-weight: bold;">
