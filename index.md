@@ -1,19 +1,21 @@
 
 <div align="center">
-  <img src="La-Trobe-University-Australia.jpg" style="object-fit:cover;width:800px;"> 
+  <img src="Parthenon5" style="object-fit:cover;width:800px;"> 
   </div>
 
 
 
-- **Dates**: Monday November 17 - Tuesday November 18, 2025. 
-- **Venue**: La Trobe University City Campus, Level 3 (Rooms 3.08 and 3.09), 360 Collins Street, Melbourne VIC 3000.
+- **Dates**: Monday May 29 - Friday June 2, 2028. 
+- **Venue**: Stavros Niarchos Foundation Cultural Center (SNFCC), Syggrou Avenue 364, 17674 Kallithea.
+
+In honor of the 60-th birthday of Ilias Kotsireas.
 
 
-
+Hadamard 2028 is the ninth in a series of conferences, the previous seven being held at Wollongong, Australia (1993); Seville, Spain (2007); Galway, Ireland (2009); Melbourne, Australia (2011);  Lethbridge, Canada (2014); Budapest, Hungary (2017); Krakow, Poland (2022); Seville, Spain (2025). The 1993 conference, called the “Hadamard Centenary” in recognition of Hadamard’s 1893 paper, was organized by Jennifer Seberry and colleagues.
 
 The main aim of the annual Australian Algebra Conference is to foster communication between algebraists in Australia. We interpret algebra quite broadly, including areas such as topological algebra, algebraic logic, graph theory and coding theory. The conference is run by the [Australian Algebra Group](https://sites.google.com/a/ltumathstats.com/austalg/about-us), which is a special interest group of the [Australian Mathematical Society](https://austms.org.au/).
 
-The conference has a proud tradition of encouraging talks by students: typically about one third of the talks are presented by students. The conference aims to provide graduate students in algebra with the opportunity to give their first public presentation in a relaxed and supportive environment. Each conference, the most outstanding student talk is awarded the [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/gordon-preston-prize).
+
 
 <div align="center">
   <img src="AAC09.png" style="object-fit:cover;width:1000px;"> 
